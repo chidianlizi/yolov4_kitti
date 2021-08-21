@@ -13,7 +13,7 @@ YOLOv4 Implemented in Tensorflow 2.0.
 ## Directory Structure
 
 Download models of all the three input size: https://drive.google.com/file/d/17-mGdc98RZurb-DIi9rKX9ddGR6-7uVK/view?usp=sharing
-'''
+```
 yolov4-kitti
 ├─ checkpoints  
 ├─ core  
@@ -43,7 +43,7 @@ yolov4-kitti
 ├─ train.py  
 ├─ yolov4.weights  
 ├─ requirements.txt  
-'''
+```
 ## Demo
 ### Conversion to TFRecord format
 The training images of the kitti dataset (directory: *./data_object_image_2/training/image_2*) and the corresponding labels folder (*./data_object_label_2/label_2*) into our project's directory *./training/*.
