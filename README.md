@@ -14,35 +14,35 @@ YOLOv4 Implemented in Tensorflow 2.0.
 
 Download models of all the three input size: https://drive.google.com/file/d/17-mGdc98RZurb-DIi9rKX9ddGR6-7uVK/view?usp=sharing
 
-yolov4-kitti
+yolov4-kitti  
 ├─ checkpoints  
-├─ core
-│  ├─ backbone.py
-│  ├─ common.py
-│  ├─ config.py
-│  ├─ dataset.py
-│  ├─ readtfr.py
-│  ├─ utils.py
-│  └─ yolov4.py
-├─ detect_results
-├─ models
-│  ├─ 416
-│  ├─ 512
-│  ├─ 608
-├─ results
-├─ training
-│  ├─ image_2
-│  ├─ kitti_tfrecords
-│  ├─ label_2
-│  ├─ kitti.names
-│  ├─ train.txt
-│  ├─ val.txt
-├─ convert_into_tfrecord.py
-├─ detect.py
-├─ detect_val.py
-├─ train.py
-├─ yolov4.weights
-├─ requirements.txt
+├─ core  
+│  ├─ backbone.py  
+│  ├─ common.py  
+│  ├─ config.py  
+│  ├─ dataset.py  
+│  ├─ readtfr.py  
+│  ├─ utils.py  
+│  └─ yolov4.py  
+├─ detect_results  
+├─ models  
+│  ├─ 416  
+│  ├─ 512  
+│  ├─ 608  
+├─ results  
+├─ training  
+│  ├─ image_2  
+│  ├─ kitti_tfrecords  
+│  ├─ label_2  
+│  ├─ kitti.names  
+│  ├─ train.txt  
+│  ├─ val.txt  
+├─ convert_into_tfrecord.py  
+├─ detect.py  
+├─ detect_val.py  
+├─ train.py  
+├─ yolov4.weights  
+├─ requirements.txt  
 
 ## Demo
 ### Conversion to TFRecord format
