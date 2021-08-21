@@ -15,7 +15,7 @@ YOLOv4 Implemented in Tensorflow 2.0.
 Download models of all the three input size: https://drive.google.com/file/d/17-mGdc98RZurb-DIi9rKX9ddGR6-7uVK/view?usp=sharing
 
 yolov4-kitti
-├─ checkpoints
+├─ checkpoints  
 ├─ core
 │  ├─ backbone.py
 │  ├─ common.py
